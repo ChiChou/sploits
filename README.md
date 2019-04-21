@@ -9,3 +9,7 @@
 * [CVE-2019-8513](https://support.apple.com/en-us/HT209600) TimeMachine: A local user may be able to execute arbitrary shell commands
 
 * [CVE-2019-8530](https://support.apple.com/en-us/HT209599) XPC: A malicious application may be able to overwrite arbitrary files
+
+* [CVE-2019-8521](https://support.apple.com/en-in/HT209600) Feedback Assistant: A malicious application may be able to overwrite arbitrary files
+
+* [CVE-2019-8565](https://support.apple.com/en-in/HT209600) Feedback Assistant: A malicious application may be able to gain root privileges
