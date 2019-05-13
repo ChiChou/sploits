@@ -1,0 +1,7 @@
+[submodule "ModJack/3rd-party/Unrootless-Kext"]
+	path = ModJack/3rd-party/Unrootless-Kext
+	url = https://github.com/LinusHenze/Unrootless-Kext.git
+  ignore = dirty
+[submodule "ModJack/3rd-party/fishhook"]
+	path = ModJack/3rd-party/fishhook
+	url = https://github.com/facebook/fishhook.git

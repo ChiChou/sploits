@@ -1,0 +1,9 @@
+(version 1)
+
+(allow default)
+
+(deny file-read*
+    (literal "/System/Library/PrivateFrameworks/Swift/libswiftDemangle.dylib")
+    (literal "/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libswiftDemangle.dylib")
+    (literal "/usr/lib/libswiftDemangle.dylib")
+)
