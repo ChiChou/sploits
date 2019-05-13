@@ -13,3 +13,5 @@
 * [CVE-2019-8521](https://support.apple.com/en-in/HT209600) Feedback Assistant: A malicious application may be able to overwrite arbitrary files
 
 * [CVE-2019-8565](https://support.apple.com/en-in/HT209600) Feedback Assistant: A malicious application may be able to gain root privileges
+
+* [ModJack](https://conference.hitb.org/hitbsecconf2019ams/materials/D2T2%20-%20ModJack%20-%20Hijacking%20the%20MacOS%20Kernel%20-%20Zhi%20Zhou.pdf) Root to kernel privilege escalation on macOS 10.13.x. No CVE assigned.
