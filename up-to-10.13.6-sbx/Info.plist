@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AllowNetworkAccess</key>
+    <true/>
+    <key>AllowFullAccess</key>
+    <true/>
+    <key>AllowSystem</key>
+    <true/>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleDisplayName</key>
+    <string>GitHub</string>
+    <key>CFBundleIdentifier</key>
+    <string>github</string>
+    <key>CFBundleName</key>
+    <string>GitHub</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.1</string>
+    <key>CFBundleVersion</key>
+    <string>1.1</string>
+    <key>CloseBoxInsetX</key>
+    <integer>10</integer>
+    <key>CloseBoxInsetY</key>
+    <integer>10</integer>
+    <key>Height</key>
+    <integer>100</integer>
+    <key>MainHTML</key>
+    <string>main.html</string>
+    <key>Width</key>
+    <integer>1440</integer>
+</dict>
+</plist>
