@@ -9,5 +9,6 @@
 | [CVE-2019-8530](https://support.apple.com/en-us/HT209599) | [code](macOS/CVE-2019-8565-fbahelperd) | XPC: A malicious application may be able to overwrite arbitrary files |
 | [CVE-2019-8521](https://support.apple.com/en-in/HT209600) | [code](macOS/CVE-2019-8565-fbahelperd) | Feedback Assistant: A malicious application may be able to overwrite arbitrary files |
 | [CVE-2019-8565](https://support.apple.com/en-in/HT209600) | [code](macOS/CVE-2019-8565-fbahelperd) | Feedback Assistant: A malicious application may be able to gain root privileges |
-| [ModJack](https://conference.hitb.org/hitbsecconf2019ams/materials/D2T2%20-%20ModJack%20-%20Hijacking%20the%20MacOS%20Kernel%20-%20Zhi%20Zhou.pdf) | [code](macOS/ModJack) | Root to kernel privilege escalation on macOS 10.13.x. No CVE assigned. |
-| [CVE-2020-9979](https://support.apple.com/en-us/HT211850) | [code](macOS/up-to-10.13.6-sbx) | Assets: An attacker may be able to misuse a trust relationship to download malicious content |
+| [N/A] | [code](macOS/up-to-10.13.6-sbx) | Patched before report, No CVE assigned. Full Safari logic sandbox escape up to macOS 10.13.6 |
+| [N/A] | [code](macOS/ModJack) [ModJack HITB 2019 talk](https://conference.hitb.org/hitbsecconf2019ams/materials/D2T2%20-%20ModJack%20-%20Hijacking%20the%20MacOS%20Kernel%20-%20Zhi%20Zhou.pdf) | Root to kernel privilege escalation on macOS 10.13.x. No CVE assigned. |
+| [CVE-2020-9979](https://support.apple.com/en-us/HT211850) | [code](macOS/CVE-2020-9979-mobileasset) | Assets: An attacker may be able to misuse a trust relationship to download malicious content |
