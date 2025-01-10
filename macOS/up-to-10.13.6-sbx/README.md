@@ -1,6 +1,6 @@
 # macOS Safari Sandbox Escape Up to High Sierra (10.13.6)
 
-Root cause: [One-liner Safari sandbox escape exploit](https://medium.com/0xcc/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef)
+Root cause: [One-liner Safari sandbox escape exploit](https://codecolor.ist/2019/03/26/one-liner-safari-sandbox-escape-exploit/)
 
 I only released the "one-liner" that required reboot or logoff.
 
